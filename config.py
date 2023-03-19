@@ -1,0 +1,1 @@
+url_base = 'https://dom.mingkh.ru/sankt-peterburg/sankt-peterburg/'
